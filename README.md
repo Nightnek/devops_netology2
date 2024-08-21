@@ -18,6 +18,8 @@
 
 
 ## Задание 3. Ветки
+![image](https://github.com/user-attachments/assets/2b367615-5946-4dd6-9725-3e7acdb8f29a)
+![image](https://github.com/user-attachments/assets/99271858-7ae6-442c-8d8a-776ca94c5b6f)
 
 
 
