@@ -26,7 +26,6 @@
 ## Задание 4. Упрощаем себе жизнь
 
 Первый коммит из PyCharm в main
-![img_3.png](img_3.png)
 
 Второй коммит
-![img_2.png](img_2.png)
+![img_4.png](img_4.png)
