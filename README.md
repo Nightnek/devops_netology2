@@ -3,9 +3,11 @@
 ## Задание 1. Знакомимся с GitLab и Bitbucket
 
 ### GitLab
+https://gitlab.com/nightnek1/devops-netology
 ![alt text](image.png)
 ![alt text](image-1.png)
 ### Bitbucket
+Ссылка на репозиторий: https://bitbucket.org/nigthnek1/devops-netology/src/main/
 ![image](https://github.com/user-attachments/assets/b2e17baf-a96c-4581-ae7d-bba8bce745f8)
 ![image](https://github.com/user-attachments/assets/e3c89e03-43c2-46e7-94cb-cefaf909839d)
 
@@ -29,3 +31,6 @@
 
 Второй коммит
 ![img_4.png](img_4.png)
+
+Третий коммит.
+Добавил ссылки на Bitbucket и GitLab.
